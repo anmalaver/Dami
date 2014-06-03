@@ -1,0 +1,74 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+/////////////////////////////////////////////////////////////////////////////
+// Spanish (Colombia) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESO)
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_COLOMBIA
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+MAIN_ICON               ICON                    "..\\..\\..\\libs\\openFrameworksCompiled\\project\\vs\\icon.ico"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// SHADER
+//
+
+IDR_SHADER_GRAYSCALEF   SHADER                  "bin\\data\\Grayscale.f"
+IDR_SHADER_GRAYSCALEV   SHADER                  "bin\\data\\Grayscale.v"
+IDR_SHADER_MOTIONF      SHADER                  "bin\\data\\MotionDiff.f"
+IDR_SHADER_MOTIONV      SHADER                  "bin\\data\\MotionDiff.v"
+IDR_SHADER_RUNNINGF     SHADER                  "bin\\data\\RunningAverage.f"
+IDR_SHADER_RUNNINGV     SHADER                  "bin\\data\\RunningAverage.v"
+IDR_SHADER_CARTOONIZERF SHADER                  "bin\\data\\Cartoonizer.f"
+IDR_SHADER_CARTOONIZERV SHADER                  "bin\\data\\Cartoonizer.v"
+IDR_SHADERMOSAICF       SHADER                  "bin\\Mosaic.f"
+IDR_SHADER_MOSAICV      SHADER                  "bin\\Mosaic.v"
+#endif    // Spanish (Colombia) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
